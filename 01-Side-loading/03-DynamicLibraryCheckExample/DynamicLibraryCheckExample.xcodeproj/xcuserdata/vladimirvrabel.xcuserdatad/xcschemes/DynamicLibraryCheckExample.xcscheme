@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "06D7762224B3638600EE3125"
+               BuildableName = "DynamicLibraryCheckExample.app"
+               BlueprintName = "DynamicLibraryCheckExample"
+               ReferencedContainer = "container:DynamicLibraryCheckExample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "06D7762224B3638600EE3125"
+            BuildableName = "DynamicLibraryCheckExample.app"
+            BlueprintName = "DynamicLibraryCheckExample"
+            ReferencedContainer = "container:DynamicLibraryCheckExample.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
